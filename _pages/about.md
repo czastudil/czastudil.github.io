@@ -23,6 +23,12 @@ I completed my undergraduate education in [Computer Science](https://www.jmu.edu
           <i><a href="https://www.researchgate.net/publication/390875140_Neurodiversity_in_Computing_Education_Research_A_Systematic_Literature_Review" target="_blank" rel="noopener noreferrer">Neurodiversity in Computing Education: A Systematic Literature Review</a></i> has been accepted to ITiCSE 2025!
         </div>
       </li>
+      <li>
+        <div class="news-date">March 2025</div>
+        <div class="news-text">
+          Participated in the Conducting High-quality Education Research in Computing workshop and served as a student volunteer at SIGCSE 2025 in Pittsburgh, PA.
+        </div>
+      </li>
     </ul>
   </div>
 </section>
