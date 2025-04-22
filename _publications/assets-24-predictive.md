@@ -1,7 +1,6 @@
 ---
 title: "Predictive Anchoring: A Novel Interaction to Support Contextualized Suggestions for Grid Displays"
 collection: publications
-category: manuscripts
 permalink: /publication/assets-24-predictive
 excerpt: ""
 date: 2025-10-27

@@ -1,7 +1,6 @@
 ---
 title: "Neurodiversity in Computing Education Research: A Systematic Literature Review"
 collection: publications
-category: manuscripts
 permalink: /publication/iticse-25-SLR
 excerpt: ""
 date: 2025-06-27

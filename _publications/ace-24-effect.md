@@ -1,7 +1,6 @@
 ---
 title: "The Effects of Generative AI on Computing Students’ Help-Seeking Preferences"
 collection: publications
-category: manuscripts
 permalink: /publication/ace-24-exploring
 excerpt: ""
 date: 2024-01-29

@@ -1,7 +1,6 @@
 ---
 title: "CampusPartner: An Assistive Technology for Mobility Impaired Pedestrians"
 collection: publications
-category: manuscripts
 permalink: /publication/group-20-campus
 excerpt: ""
 date: 2020-01-06

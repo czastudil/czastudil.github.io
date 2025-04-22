@@ -1,7 +1,6 @@
 ---
 title: "Generative AI in Computing Education: Perspectives of Students and Instructors"
 collection: publications
-category: manuscripts
 permalink: /publication/fie-23-generative
 excerpt: ""
 date: 2023-10-18

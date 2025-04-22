@@ -1,7 +1,6 @@
 ---
 title: "Exploring the use of Generative AI to Support Automated Just-in-Time Programming for Visual Scene Displays"
 collection: publications
-category: manuscripts
 permalink: /publication/assets-24-exploring
 excerpt: ""
 date: 2025-10-27
