@@ -7,5 +7,3 @@ venue: "FIE 2023"
 date: 2023-10-20
 location: "College Station, TX, USA"
 ---
-
-Presented our work about how students and instructors perceive the impacts of generative AI on computing education.
