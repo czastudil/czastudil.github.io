@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I'm Cindy Zastudil. I'm a third-year [Computer and Information Sciences](https://cis.temple.edu/) Ph.D. student in the Human-Computer Interaction Lab at Temple University in Philadelphia, PA advised by [Dr. Stephen MacNeil](https://stevemacn.github.io/).
 
-My research interests...
+My research is centered on improving [augmentative and alternative communication (AAC) devices](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication) for emergent communicators (i.e., those working on developing symbolic language skills). I am also passionate about broadening participation in computing education.
 
 I completed my undergraduate education in [Computer Science](https://www.jmu.edu/cise/cs/index.shtml) with a minor in Math at James Madison University in Harrisonburg, VA where I was advised by [Dr. Michael Stewart](https://scholar.google.com/citations?user=PE1s-WgAAAAJ&hl=en&oi=ao). Before starting my Ph.D., I was previously a software engineer at Vanguard. Outside of my research, I am an avid baseball and football fan (Go Phils, Go Birds!), fiber arts fanatic, and enjoyer of indoor rock climbing.
 
