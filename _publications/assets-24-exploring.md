@@ -3,7 +3,7 @@ title: "Exploring the use of Generative AI to Support Automated Just-in-Time Pro
 collection: publications
 permalink: /publication/assets-24-exploring
 excerpt: ""
-date: 2025-10-27
+date: 2024-10-27
 venue: "ASSETS"
 # slidesurl: ""
 paperurl: "https://dl.acm.org/doi/abs/10.1145/3663548.3688502"
