@@ -18,6 +18,12 @@ I completed my undergraduate education in [Computer Science](https://www.jmu.edu
   <div class="news-scroll">
     <ul>
       <li>
+        <div class="news-date">June 2025</div>
+        <div class="news-text">
+          Traveled to Nijmegen, Netherlands to present our literature review about research on neurodiversity in computing education research.
+        </div>
+      </li>
+      <li>
         <div class="news-date">March 2025</div>
         <div class="news-text">
           Our paper <i><a href="https://www.researchgate.net/publication/390875140_Neurodiversity_in_Computing_Education_Research_A_Systematic_Literature_Review" target="_blank" rel="noopener noreferrer">Neurodiversity in Computing Education: A Systematic Literature Review</a></i> has been accepted to ITiCSE 2025!
